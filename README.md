@@ -1,0 +1,1 @@
+These are design files for a gamified user interface created for a university course _Gamification and Serious Games_. The gamified UI was used to showcase a hypothetical application teaching the principles of gamification and serious games.
